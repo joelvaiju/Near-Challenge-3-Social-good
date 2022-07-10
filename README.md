@@ -1,4 +1,4 @@
-near-spring-NFT-challenge3
+near-showcode-social-good-challenge-3
 ==================
 
 This [React] app was initialized with [create-near-app]
