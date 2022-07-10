@@ -1,0 +1,1 @@
+/home/cyrus/Desktop/showcode/Near-Challenge-3-Social-good/contract/target/wasm32-unknown-unknown/debug/libnft_minter.rlib: /home/cyrus/Desktop/showcode/Near-Challenge-3-Social-good/contract/src/lib.rs
